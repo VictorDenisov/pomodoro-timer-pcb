@@ -1,2 +1,50 @@
 [Eagle]
 Version="07 07 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/LilyPad-Wearables.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Aesthetics.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Batteries.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Boards.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Clocks.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Coils.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Connectors.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Displays.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Fuses.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-GPS.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Hardware.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Amplifiers.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Comms.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Conversion.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Logic.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Memory.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Microcontroller.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Power.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-IC-Special-Function.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Jumpers.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-LED.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-PowerSymbols.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-RF.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Retired.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Sensors.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/SparkFun-Switches.lbr"
+UsedLibrary="/home/vdenisov/eagle-7.7.0/lbr/sparkfun/SparkFun-Eagle-Libraries-master/User-Submitted.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1920 0 3837 1197"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1200"
+Window="Win_1"
